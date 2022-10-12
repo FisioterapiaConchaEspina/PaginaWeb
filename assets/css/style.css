@@ -1202,7 +1202,7 @@ section {
 
 .doctors .member .pic {
   overflow: hidden;
-  width: 180px;
+  width: 250px;
   border-radius: 50%;
 }
 
@@ -1211,7 +1211,7 @@ section {
 }
 
 .doctors .member:hover img {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 .doctors .member .member-info {
