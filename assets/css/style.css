@@ -738,10 +738,11 @@ section {
 }
 
 .about .icon-boxes h3 {
-  font-size: 28px;
+  font-size: 25px;
   font-weight: 700;
   color: #2c4964;
   margin-bottom: 0px;
+  margin-left: 15px;
 }
 
 .about .icon-box {
